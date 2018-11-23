@@ -1,0 +1,16 @@
+{
+  "batch_size": 100,
+  "continue_from_epoch": -2,
+  "seed": $seed$,
+  "image_num_channels": 1,
+  "image_height": 28,
+  "image_width": 28,
+  "dim_reduction_type": "$dim_reduction_type$",
+  "num_layers": $num_layers$,
+  "num_filters": $num_filters$,
+  "num_epochs": $num_epochs$,
+  "experiment_name": "$experiment_name$",
+  "use_gpu": true,
+  "gpu_id": "0",
+  "weight_decay_coefficient": 1e-05
+}
