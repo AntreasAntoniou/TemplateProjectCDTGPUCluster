@@ -1,12 +1,6 @@
 # CDT Cluster Template Project
 A short code repo that showcases a potential framework for carrying out experiments on the CDT Cluster.
 
-## Introduction
-
-Welcome to the code repository of How to train your MAML arxiv_url. This repository includes code for training both MAML
-and MAML++ models, as well as data providers and the datasets for both. By using this codebase you agree to the terms 
-and conditions in the LICENSE file.
-
 ## Installation
 
 The code uses Pytorch to run, along with many other smaller packages. To take care of everything at once, we recommend 
