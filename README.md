@@ -2,7 +2,7 @@
 A short code repo that showcases a potential framework for carrying out experiments on the CDT Cluster.
 
 ## Installation
-
+\\((W - F + 2P)/S + 1\\)
 The code uses Pytorch to run, along with many other smaller packages. To take care of everything at once, we recommend 
 using the conda package management library. More specifically, 
 [miniconda3](https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh), as it is lightweight and fast to install.
