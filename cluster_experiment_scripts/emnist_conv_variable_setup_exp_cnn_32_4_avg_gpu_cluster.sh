@@ -2,7 +2,7 @@
 #SBATCH -N 1	  # nodes requested
 #SBATCH -n 1	  # tasks requested
 #SBATCH --gres=gpu:1
-#SBATCH --mem=16000  # memory in Mb
+#SBATCH --mem=14000  # memory in Mb
 #SBATCH --time=0-05:00:00
 #SBATCH --exclude=charles[11-12]
 
